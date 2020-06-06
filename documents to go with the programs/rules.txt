@@ -1,0 +1,11 @@
+definitons:
+"small snippet" = code that is < then 15 lines
+"large bits of code" = over 15 lines
+
+to prevent "spreading", that was removed on 31/05/20, ensure any new idea is tested through test 0002. 
+if it fails, copy it into test 0001 under a comment describing it.
+
+for small, small snippets, then use test 0003. delete the code once you're done. if you like it too much,
+for large code put it in test 0003 or the test 0004 for small snippets.
+
+if it works, then make a new document, named on the lowest available number and copy your code there

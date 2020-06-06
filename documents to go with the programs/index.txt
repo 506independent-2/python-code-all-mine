@@ -1,0 +1,42 @@
+
+TEST:
+
+test 0001 - pastebin - for codethat is lying in wait
+test 0002 - run - used forrunning code from pastebin
+test 0003 - test - used for testing things - modules, everything
+
+NORMAL:
+
+test 0004 - a dice. its was quite long for me back then. but i knew i wold make longer programs. it was designed t copy my dice project from scratch,
+but without that gory bit in the end (i'l let you see). from this project i did learn that int(input()) DOES NOT accept letters, so i had to use numbers.
+if you want any more modes, just ask me, or code them yourself. ( 21:14, 24/04/20)
+
+test 0005 - the slow machine. this code is capable of slowing your computer down. do not  run for longer then 5 seconds, or your window may crash.
+the DANGEROUS ones do not have the warning when your number is large. the addition looks gracious, but multiplication looks ugly and sharp.
+if you want a  quick experience, dont use a python editor, use the python running app, the one thats black. it looks more gracious
+ 
+
+test 0006 - secure dice - this program was desigined as a test of the secrests module but turned into a dice.
+
+test 0007 - fortune teller. this can tell your fortunes. just give it a y/n question and see how it instantly answers. 
+
+test 0008 - random letter maker - this is a failed way of communicating with ghosts. just a giberish maker
+
+test 0009 - ghost communicator - just a shot in the dark for communicating with ghosts. has lots of modes.
+
+test 0010 - discord bot  - code for my discord bot
+
+test 0011 - guessing game - a game that dosent work due to module errors.
+
+test 0012 - hold simulator - a hold simulator. im not going to tell you what happens, but its very funny (even if i do say so myself)
+
+test 0013 - heart monitor - this does not actually take your heartbeat, its just meant to repersent a heart monitor
+
+test 0014 - how the random modules sound - this is an experiment to see how the random modules sound. secrets and random are the only modules inside
+i will add more, depending on what you ask for and whether i find out if there are more or not.
+
+test 0015 - coin flip - coin flipping sim.
+
+test 0016 (also known as "escape")- escape the hospital. this is another plaintext game. try to defeat the final boss.
+
+test 0017 - fizzbuzz - this is a fizzbuzz program. there are a lot of settings. try seeing how high you can goo!

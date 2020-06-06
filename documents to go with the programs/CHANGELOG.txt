@@ -1,0 +1,13 @@
+11/05/20
+15:51
+ghost communicator - changed all the secret module randomizer into randint ones, so the ghosts find it easier.
+ghost communicator - added some delay, so ghosts can choose an answer (5 seconds)
+31/05/20
+17:31
+entire file structure - deleted programs that dont work, and added rules.txt.
+01/06/20
+17:23
+test 0028 - migrated to test 0003, because of its nonworking nature.
+entire file structure - reshuffled files so it was in numeric order.
+18:13
+rules.txt - added a bit more, clarifying some things

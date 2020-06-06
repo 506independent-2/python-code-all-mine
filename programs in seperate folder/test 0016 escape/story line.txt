@@ -1,0 +1,7 @@
+2
+decison
+1 go to town-|5 - knock on all the doors - goes to six
+	     |6 - find your home|1 - pay them
+				|2 - steal a phone
+2 stay in hospital-|3 - go to the staff room
+		   |4 - go to the kitchens
